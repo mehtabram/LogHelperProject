@@ -34,4 +34,9 @@ public class LogHelper
 		if (BuildConfig.DEBUG)
 			Log.i(tag, log_str);
 	}
+	public static void logE(String tag, String log_str)
+	{
+		if (BuildConfig.DEBUG)
+			Log.e(tag, log_str);
+	}
 }
