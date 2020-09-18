@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/java/com/adaptmerchantcompanion/SplashActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/java/com/adaptmerchantcompanion/activity_feed/ui/ActivityFeedFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/java/com/adaptmerchantcompanion/activity_feed/ui/ActivityOrderStatusDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/java/com/adaptmerchantcompanion/activity_feed/ui/ActivityServiceStatusDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/java/com/adaptmerchantcompanion/home/ui/HomeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/java/com/adaptmerchantcompanion/media_slider/ui/MediaItemAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/java/com/adaptmerchantcompanion/message/ui/ChatUserListFrament.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/java/com/adaptmerchantcompanion/push_notification/MyFirebaseMessagingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/java/com/adaptmerchantcompanion/setting/ui/AccountInformatioActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/java/com/adaptmerchantcompanion/setting/ui/NotificationActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/java/com/adaptmerchantcompanion/user/ui/ForgotPasswordDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/java/com/adaptmerchantcompanion/user/ui/LoginActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/java/com/adaptmerchantcompanion/user/ui/ProfileActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/java/com/adaptmerchantcompanion/utils/DateTimeHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/java/com/adaptmerchantcompanion/utils/EncodeDecodeHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/java/com/adaptmerchantcompanion/webutility/FileUploadWebTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/java/com/adaptmerchantcompanion/webutility/WebTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/res/layout/activity_chat_layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Mehtab/ACMProject/SourceCode/AdaptCompanion/app/src/main/res/layout/media_items.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/loghelper/src/main/java/com/loghelper/LogHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/loghelper/src/main/java/com/loghelper/StringHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/loghelper/src/main/java/com/loghelper/ToastShow.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
